@@ -1,0 +1,9 @@
+/home/nightdragon/ErrorCalculator/build/Desktop_Qt_6_8_2-Debug/CMakeFiles/ErrorCalculator.dir
+/home/nightdragon/ErrorCalculator/build/Desktop_Qt_6_8_2-Debug/CMakeFiles/edit_cache.dir
+/home/nightdragon/ErrorCalculator/build/Desktop_Qt_6_8_2-Debug/CMakeFiles/rebuild_cache.dir
+/home/nightdragon/ErrorCalculator/build/Desktop_Qt_6_8_2-Debug/CMakeFiles/list_install_components.dir
+/home/nightdragon/ErrorCalculator/build/Desktop_Qt_6_8_2-Debug/CMakeFiles/install.dir
+/home/nightdragon/ErrorCalculator/build/Desktop_Qt_6_8_2-Debug/CMakeFiles/install/local.dir
+/home/nightdragon/ErrorCalculator/build/Desktop_Qt_6_8_2-Debug/CMakeFiles/install/strip.dir
+/home/nightdragon/ErrorCalculator/build/Desktop_Qt_6_8_2-Debug/CMakeFiles/ErrorCalculator_autogen_timestamp_deps.dir
+/home/nightdragon/ErrorCalculator/build/Desktop_Qt_6_8_2-Debug/CMakeFiles/ErrorCalculator_autogen.dir
